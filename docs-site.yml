@@ -1,0 +1,3 @@
+title: planetary-gear-fidget
+description: A print-in-place planetary gear fidget toy in OpenSCAD, with herringbone gears
+models: planetary_gear_fidget.scad
